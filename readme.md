@@ -1,3 +1,7 @@
-# This is test repository
+# How to push to GIT
 
-This is some description 
+## Basic
+
+- **Add:** `git add .` (or) `git add <filepath>`
+- **Commit:** `git commit -m'<your-note>'`
+- **Push:** `git push`
